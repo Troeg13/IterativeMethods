@@ -1,0 +1,4 @@
+C:\Users\troeg\source\repos\IterativeMethods\Debug\IterativeMethods.vcxproj.AssemblyReference.cache
+C:\Users\troeg\source\repos\IterativeMethods\Debug\IterativeMethods.exe
+C:\Users\troeg\source\repos\IterativeMethods\Debug\IterativeMethods.IterMet.resources
+C:\Users\troeg\source\repos\IterativeMethods\Debug\IterativeMethods.vcxproj.GenerateResource.cache

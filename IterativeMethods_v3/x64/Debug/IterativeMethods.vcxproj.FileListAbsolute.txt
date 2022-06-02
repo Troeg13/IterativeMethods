@@ -1,0 +1,12 @@
+C:\Users\troeg\source\repos\IterativeMethods\x64\Debug\IterativeMethods.vcxproj.AssemblyReference.cache
+C:\Users\troeg\source\repos\IterativeMethods\x64\Debug\IterativeMethods.IterMet.resources
+C:\Users\troeg\source\repos\IterativeMethods\x64\Debug\IterativeMethods.vcxproj.GenerateResource.cache
+C:\Users\troeg\source\repos\IterativeMethods\x64\Debug\IterativeMethods.exe
+C:\Users\troeg\source\repos\IterativeMethods_v3\x64\Debug\IterativeMethods.vcxproj.AssemblyReference.cache
+C:\Users\troeg\source\repos\IterativeMethods_v3\x64\Debug\IterativeMethods.IterMet.resources
+C:\Users\troeg\source\repos\IterativeMethods_v3\x64\Debug\IterativeMethods.vcxproj.GenerateResource.cache
+C:\Users\troeg\source\repos\IterativeMethods_v3\x64\Debug\IterativeMethods.exe
+D:\учёба\численные методы\IterativeMethods_v3\x64\Debug\IterativeMethods.vcxproj.AssemblyReference.cache
+D:\учёба\численные методы\IterativeMethods_v3\x64\Debug\IterativeMethods.IterMet.resources
+D:\учёба\численные методы\IterativeMethods_v3\x64\Debug\IterativeMethods.vcxproj.GenerateResource.cache
+D:\учёба\численные методы\IterativeMethods_v3\x64\Debug\IterativeMethods.exe

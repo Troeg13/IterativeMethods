@@ -1,0 +1,11 @@
+﻿  IterMet.cpp
+C:\Users\troeg\source\repos\IterativeMethods\IterMet.h(603,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\troeg\source\repos\IterativeMethods\IterMet.h(605,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\troeg\source\repos\IterativeMethods\IterMet.h(606,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\troeg\source\repos\IterativeMethods\IterMet.h(618,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\troeg\source\repos\IterativeMethods\IterMet.h(620,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\troeg\source\repos\IterativeMethods\IterMet.h(621,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  IterMet.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  IterativeMethods.vcxproj -> C:\Users\troeg\source\repos\IterativeMethods\Debug\IterativeMethods.exe
